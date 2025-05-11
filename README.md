@@ -4,5 +4,8 @@ Este código é como um "olho digital" 👀 que tenta identificar se uma pessoa 
 
 ## 📁 Estrutura do Projeto
 ├── imagens/ # Conjunto de dados (bruto e processado)
+
 ├── notebooks/ # Jupyter Notebooks com EDA, modelagem etc.
+
 └── README.md # Documentação do projeto
+
